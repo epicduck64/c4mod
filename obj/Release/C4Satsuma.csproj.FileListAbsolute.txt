@@ -1,0 +1,12 @@
+C:\Users\epicd\source\repos\MyMod2\MyMod2\bin\Release\MyMod2.dll
+C:\Users\epicd\source\repos\MyMod2\MyMod2\obj\Release\C4Satsuma.csprojAssemblyReference.cache
+C:\Users\epicd\source\repos\MyMod2\MyMod2\obj\Release\C4Satsuma.csproj.CoreCompileInputs.cache
+C:\Users\epicd\source\repos\MyMod2\MyMod2\obj\Release\MyMod2.dll
+C:\Users\epicd\source\repos\MyMod2\MyMod2\bin\Release\PlayMaker.dll
+C:\Users\epicd\source\repos\MyMod2\MyMod2\obj\Release\C4Satsuma.csproj.CopyComplete
+C:\Users\epicd\source\repos\C4Mod\MyMod2\bin\Release\MyMod2.dll
+C:\Users\epicd\source\repos\C4Mod\MyMod2\bin\Release\PlayMaker.dll
+C:\Users\epicd\source\repos\C4Mod\MyMod2\obj\Release\C4Satsuma.csprojAssemblyReference.cache
+C:\Users\epicd\source\repos\C4Mod\MyMod2\obj\Release\C4Satsuma.csproj.CoreCompileInputs.cache
+C:\Users\epicd\source\repos\C4Mod\MyMod2\obj\Release\C4Satsuma.csproj.CopyComplete
+C:\Users\epicd\source\repos\C4Mod\MyMod2\obj\Release\MyMod2.dll
